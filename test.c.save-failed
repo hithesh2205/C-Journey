@@ -1,0 +1,17 @@
+#include <stdio.h>
+void main{
+     int a;
+     char m;
+     char g;
+     printf("enter gender \n age \n marital status\n");
+     scanf("%c",&g);
+     scanf("%d",&a);
+     scanf("%c",&m);
+     if ((a<=30 && c=='u')||(a<=25 && m=='u' && g=='f'){
+        printf("issued");
+     }
+     else{
+       printf("not issued");
+     }
+}
+
