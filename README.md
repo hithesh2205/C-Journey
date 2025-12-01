@@ -5,7 +5,7 @@
   <h2>Contents</h2>
   <ul>
     <li>Basic C programs</li>
-    <li>Loops & conditions</li>
+    <li>Loops and conditions</li>
     <li>Functions & recursion</li>
     <li>String programs</li>
     <li>Small projects</li>
